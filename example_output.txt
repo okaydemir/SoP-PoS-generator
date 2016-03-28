@@ -1,0 +1,4 @@
+Product of sums: 
+(H+O+N+R)(H+O+N+R')(H+O+N'+R)(H'+O+N+R')
+Sum of products: 
+H'O'NR+H'ON'R'+H'ON'R+H'ONR'+H'ONR+HO'N'R'+HO'NR'+HO'NR+HON'R'+HON'R+HONR'+HONR
